@@ -6,3 +6,4 @@ Installing Dependencies for MAC:
 - brew install --cask hugin
   - open and allow the Apps in /Applications/Hugin/
   - make nona available: export PATH="/Applications/Hugin/PTBatcherGUI.app/Contents/MacOS:$PATH"
+- pip3 install --user pyshtools
