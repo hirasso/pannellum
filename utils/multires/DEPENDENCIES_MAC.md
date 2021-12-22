@@ -1,6 +1,6 @@
 Installing Dependencies for MAC:
 
-- brew install pyenv
+- brew install python@3.9
 - brew install pillow
 - brew install numpy
 - brew install --cask hugin
